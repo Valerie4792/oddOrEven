@@ -1,0 +1,15 @@
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/bin/Debug/net6.0/oddOrEven
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/bin/Debug/net6.0/oddOrEven.deps.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/bin/Debug/net6.0/oddOrEven.runtimeconfig.json
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/bin/Debug/net6.0/oddOrEven.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/bin/Debug/net6.0/oddOrEven.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/oddOrEven.csproj.AssemblyReference.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/oddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/oddOrEven.AssemblyInfoInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/oddOrEven.AssemblyInfo.cs
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/oddOrEven.csproj.CoreCompileInputs.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/oddOrEven.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/refint/oddOrEven.dll
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/oddOrEven.pdb
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/oddOrEven.genruntimeconfig.cache
+/Users/val/Documents/CodeStack/Level1/LMSassignments/miniChallengesUpload/oddEven/oddOrEven/obj/Debug/net6.0/ref/oddOrEven.dll
