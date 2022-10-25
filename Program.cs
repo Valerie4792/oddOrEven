@@ -3,8 +3,8 @@
 
 //----------Odd or Even -------//
 
-//Peer Reviewed By:
-//Comment:
+//Peer Reviewed By: Saul Suazo
+//Comment: Works great! 
 
 int num1;
 bool validNum1;
